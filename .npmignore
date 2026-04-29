@@ -1,2 +1,7 @@
 .github
 !dist
+*.test.*
+babel.config.cjs
+eslint.config.mjs
+jest.config.cjs
+tsconfig.json

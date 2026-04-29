@@ -7,6 +7,7 @@
   },
   "types": "./dist/common.d.ts",
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
     "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.2",
@@ -15,6 +16,7 @@
     "@stylistic/eslint-plugin": "^5.10.0",
     "@types/jquery": "^4.0.0",
     "@types/node": "^25.6.0",
+    "babel-jest": "^30.3.0",
     "eslint": "^10.2.1",
     "eslint-plugin-jsdoc": "^62.9.0",
     "globals": "^17.5.0",
