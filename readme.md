@@ -1,5 +1,7 @@
 # @ctrlo/Common
 
+[![Test with Yarn](https://github.com/droberts-ctrlo/ctrlo-common/actions/workflows/nodejs-tests.yml/badge.svg)](https://github.com/droberts-ctrlo/ctrlo-common/actions/workflows/nodejs-tests.yml)
+
 Common module used in some CtrlO libraries
 
 ## functions
